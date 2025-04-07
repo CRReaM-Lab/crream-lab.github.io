@@ -1,0 +1,112 @@
+\documentclass{article}
+\usepackage{iftex}
+\usepackage{ifthen}
+\usepackage{epsfig}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\ifPDFTeX
+\usepackage{newunicodechar}
+  \makeatletter
+    \def\doxynewunicodechar#1#2{%
+    \@tempswafalse
+    \edef\nuc@tempa{\detokenize{#1}}%
+    \if\relax\nuc@tempa\relax
+      \nuc@emptyargerr
+    \else
+      \edef\@tempb{\expandafter\@car\nuc@tempa\@nil}%
+      \nuc@check
+      \if@tempswa
+        \@namedef{u8:\nuc@tempa}{#2}%
+      \fi
+    \fi
+  }
+  \makeatother
+  \doxynewunicodechar{⁻}{${}^{-}$}% Superscript minus
+  \doxynewunicodechar{²}{${}^{2}$}% Superscript two
+  \doxynewunicodechar{³}{${}^{3}$}% Superscript three
+
+\fi
+\pagestyle{empty}
+\begin{document}
+$ y[n] = \alpha·x[n]+(1-\alpha)·y[n-1] $
+\pagebreak
+
+$ \alpha = \left(\frac{1}{2}\right)^{K} $
+\pagebreak
+
+$ x $
+\pagebreak
+
+$ y $
+\pagebreak
+
+$ 1 - 2^{-K} $
+\pagebreak
+
+$ K $
+\pagebreak
+
+$ M + K $
+\pagebreak
+
+$ M $
+\pagebreak
+
+$ M = 10 $
+\pagebreak
+
+$ 16 - M = 6 $
+\pagebreak
+
+$ 32 - M = 22 $
+\pagebreak
+
+$ M = 16 $
+\pagebreak
+
+$ M + K = 17 $
+\pagebreak
+
+$ x[n] $
+\pagebreak
+
+$ y[n] $
+\pagebreak
+
+$1-\alpha$
+\pagebreak
+
+$ \left[0,1\right) $
+\pagebreak
+
+$ 1 - \left(\frac{1}{2}\right)^{\text{FilterShiftFactor}} $
+\pagebreak
+
+$0$
+\pagebreak
+
+$ \text{ADC_BITS} + \text{IncRes} + 
+         \text{FilterShiftFactor} $
+\pagebreak
+
+$ \text{ADC_BITS} + \text{IncRes} $
+\pagebreak
+
+$ y[n] = \alpha\cdot x[n] + (1-\alpha)\cdot y[n-1] $
+\pagebreak
+
+$ \alpha = \left(\frac{1}{2}\right)^{ANALOG\_FILTER\_SHIFT\_FACTOR} $
+\pagebreak
+
+$[min, max]$
+\pagebreak
+
+$ \left[0, \mathrm{bank.getNumberOfBanks()}\right) \cap 
+           \mathbb{N} $
+\pagebreak
+
+$ 16 - 
+         \mathrm{ANALOG\_FILTER\_SHIFT\_FACTOR} $
+\pagebreak
+
+\end{document}

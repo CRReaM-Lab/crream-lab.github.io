@@ -1,0 +1,25 @@
+var class_e_s_p32_b_l_e_backend =
+[
+    [ "IncomingMIDIMessage", "class_e_s_p32_b_l_e_backend.html#adbc01b2114d6186345343f622a01bd82", null ],
+    [ "Sender", "class_e_s_p32_b_l_e_backend.html#a215be91f5adc4035c14d960858df004c", null ],
+    [ "acquirePacket", "class_e_s_p32_b_l_e_backend.html#a3b389b17464f86d9e368eda27f03f3a9", null ],
+    [ "begin", "class_e_s_p32_b_l_e_backend.html#a63b91e1b92f6118c90c16170934df09e", null ],
+    [ "end", "class_e_s_p32_b_l_e_backend.html#a8eec57eca06861a466612e556f73e303", null ],
+    [ "forceMinMTU", "class_e_s_p32_b_l_e_backend.html#a0570e711e566d8162ab1af4bdf2493df", null ],
+    [ "getMinMTU", "class_e_s_p32_b_l_e_backend.html#aad05a71a340ecc7589da32524596b115", null ],
+    [ "handleConnect", "class_e_s_p32_b_l_e_backend.html#a36c708d0e390fd694135f9fd6b0a8e2f", null ],
+    [ "handleData", "class_e_s_p32_b_l_e_backend.html#a19dd9d89ff70cf1d4dd565a86c67003c", null ],
+    [ "handleDisconnect", "class_e_s_p32_b_l_e_backend.html#a92d01168ccfd327c722741a10d05ca62", null ],
+    [ "handleMTU", "class_e_s_p32_b_l_e_backend.html#a20612df14af843613a6eca40fc171e0f", null ],
+    [ "handleSubscribe", "class_e_s_p32_b_l_e_backend.html#a73d755692c451d519d1ae1193903d66c", null ],
+    [ "isConnected", "class_e_s_p32_b_l_e_backend.html#ad3cdfa2472981ca0de89e3455d7ba7ed", null ],
+    [ "popMessage", "class_e_s_p32_b_l_e_backend.html#a83649e89e5d38f41a6d3be53d3651527", null ],
+    [ "releasePacketAndNotify", "class_e_s_p32_b_l_e_backend.html#a5a794bae316949fa69ed9dec96e468bb", null ],
+    [ "sendData", "class_e_s_p32_b_l_e_backend.html#a5e05485dd3ff1ec084e2c83fd4a8f041", null ],
+    [ "sendNow", "class_e_s_p32_b_l_e_backend.html#a1c9c373be2e924e7469c12a02688f022", null ],
+    [ "setTimeout", "class_e_s_p32_b_l_e_backend.html#a39c50a27543f64da5e449b8b8fef73b7", null ],
+    [ "characteristic", "class_e_s_p32_b_l_e_backend.html#a3007ee301896547514e963b599fc5f86", null ],
+    [ "connection", "class_e_s_p32_b_l_e_backend.html#ab01b130fbc0fc22c98db348cda0a664a", null ],
+    [ "impl", "class_e_s_p32_b_l_e_backend.html#a85724d83ea696399354530a9f52c4d33", null ],
+    [ "Sender", "class_e_s_p32_b_l_e_backend.html#a5887c23ba01e3c9fb1fcafb5c48245fe", null ]
+];

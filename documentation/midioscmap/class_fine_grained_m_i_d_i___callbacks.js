@@ -1,0 +1,25 @@
+var class_fine_grained_m_i_d_i___callbacks =
+[
+    [ "onActiveSensing", "class_fine_grained_m_i_d_i___callbacks.html#aa7c653b02699a61926e1a86304b412cb", null ],
+    [ "onChannelMessage", "class_fine_grained_m_i_d_i___callbacks.html#a18656b33d7eb01d3c310b0954a170e26", null ],
+    [ "onChannelPressure", "class_fine_grained_m_i_d_i___callbacks.html#a5dd5a7a8d5c23a7854d2d743eaab95a8", null ],
+    [ "onClock", "class_fine_grained_m_i_d_i___callbacks.html#af69dcd8b7dabe93c8749b086484efb85", null ],
+    [ "onContinue", "class_fine_grained_m_i_d_i___callbacks.html#acf307099aae2160b2320269a82c7e8ba", null ],
+    [ "onControlChange", "class_fine_grained_m_i_d_i___callbacks.html#a35ddea1ebcf8169a3e308895205786ff", null ],
+    [ "onKeyPressure", "class_fine_grained_m_i_d_i___callbacks.html#a18fc0fe8d7458c957cfb12c94479af36", null ],
+    [ "onNoteOff", "class_fine_grained_m_i_d_i___callbacks.html#a9b2fc45ebcc901885b58b05f67f84eed", null ],
+    [ "onNoteOn", "class_fine_grained_m_i_d_i___callbacks.html#a521517f3580c44a2f89d4cb28f71e7d5", null ],
+    [ "onPitchBend", "class_fine_grained_m_i_d_i___callbacks.html#ae0dac51bff085de908af3a47b62e8726", null ],
+    [ "onProgramChange", "class_fine_grained_m_i_d_i___callbacks.html#a83f67ba3f7fbf7904aa4297ca74a9ad7", null ],
+    [ "onRealTimeMessage", "class_fine_grained_m_i_d_i___callbacks.html#a674c22603ea3ff957231d95193a0fb4f", null ],
+    [ "onSongPosition", "class_fine_grained_m_i_d_i___callbacks.html#ac3cd48d12afcd908263f183a4e4ea4e6", null ],
+    [ "onSongSelect", "class_fine_grained_m_i_d_i___callbacks.html#ae07a81af81f045e4f43774d818538586", null ],
+    [ "onStart", "class_fine_grained_m_i_d_i___callbacks.html#a4c04092fc3cc854bd36b615b9f1c3cba", null ],
+    [ "onStop", "class_fine_grained_m_i_d_i___callbacks.html#ac386515b300b8e09ef838b8fe0495813", null ],
+    [ "onSysCommonMessage", "class_fine_grained_m_i_d_i___callbacks.html#a13c3a7c26659639f9043d3f975ace4b0", null ],
+    [ "onSysExMessage", "class_fine_grained_m_i_d_i___callbacks.html#a639ee82c5e41ce26c8a22dbf4cee863a", null ],
+    [ "onSystemExclusive", "class_fine_grained_m_i_d_i___callbacks.html#afb80d7f2a3896b3bbfa92e533d978410", null ],
+    [ "onSystemReset", "class_fine_grained_m_i_d_i___callbacks.html#a29851a213b826955ab58a942739cfe9d", null ],
+    [ "onTimeCodeQuarterFrame", "class_fine_grained_m_i_d_i___callbacks.html#a8103b259b750176fdb5e97df6a55eb95", null ],
+    [ "onTuneRequest", "class_fine_grained_m_i_d_i___callbacks.html#a42a262004df6b9a72e58994b274e3cb0", null ]
+];

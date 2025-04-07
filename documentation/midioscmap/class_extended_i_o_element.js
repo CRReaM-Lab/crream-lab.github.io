@@ -1,0 +1,26 @@
+var class_extended_i_o_element =
+[
+    [ "ExtendedIOElement", "class_extended_i_o_element.html#ae0dccebc470f6f9e71d98678994dcaad", null ],
+    [ "ExtendedIOElement", "class_extended_i_o_element.html#add9effbcd055baf04eb3806776630120", null ],
+    [ "ExtendedIOElement", "class_extended_i_o_element.html#ab33d6d7dac274579ea00c20638f32f9a", null ],
+    [ "analogRead", "class_extended_i_o_element.html#aee21692fefc2a54f35c7d18392bb42ac", null ],
+    [ "analogReadBuffered", "class_extended_i_o_element.html#af0e6783af528fe5a26f5cdcc68f1d5a9", null ],
+    [ "analogWrite", "class_extended_i_o_element.html#a55fd9ab4dd0c6168b9d1e287074c4951", null ],
+    [ "analogWriteBuffered", "class_extended_i_o_element.html#afa42b03acf4394f6451d66e387de0215", null ],
+    [ "begin", "class_extended_i_o_element.html#a29b7bc6b58838c2dbe16d57dd47eeeac", null ],
+    [ "digitalRead", "class_extended_i_o_element.html#a3827c00721fc5925cc27545c77606709", null ],
+    [ "digitalReadBuffered", "class_extended_i_o_element.html#ae5ffd3e8a6399134d061bab486d2af01", null ],
+    [ "digitalWrite", "class_extended_i_o_element.html#a6ae38d1b16a0a39b35c5149ef3094f8e", null ],
+    [ "digitalWriteBuffered", "class_extended_i_o_element.html#ac67def129ce96f05c4a6575d289f05e4", null ],
+    [ "getEnd", "class_extended_i_o_element.html#a916fb2b6f637e2d35c162677f5d95a64", null ],
+    [ "getLength", "class_extended_i_o_element.html#a3d9607995d349d197fc24a23d6c4016f", null ],
+    [ "getStart", "class_extended_i_o_element.html#a955322d29e4e63ec40a587b5ed9db31b", null ],
+    [ "operator=", "class_extended_i_o_element.html#a47981af48c362a7948284a86635a9fa2", null ],
+    [ "operator=", "class_extended_i_o_element.html#aacec14e374729c57ce57f113dfae61be", null ],
+    [ "operator[]", "class_extended_i_o_element.html#a2c6058c4a84b5be7c9b05e2cc1a9d94f", null ],
+    [ "pin", "class_extended_i_o_element.html#a163cffb9da0f3b7fdcb3c49b58393c03", null ],
+    [ "pinMode", "class_extended_i_o_element.html#a973727e2a5f2f6e792f5a1d6299844c6", null ],
+    [ "pinModeBuffered", "class_extended_i_o_element.html#a92c586724920063fcb429a63d4d79637", null ],
+    [ "updateBufferedInputs", "class_extended_i_o_element.html#aaa99d4af56c730d8dd2a1717a079616a", null ],
+    [ "updateBufferedOutputs", "class_extended_i_o_element.html#a4034c0a605a1a764580d9e320e33783a", null ]
+];

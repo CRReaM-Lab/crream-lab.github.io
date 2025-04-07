@@ -1,0 +1,26 @@
+var _extended_input_output_8hpp =
+[
+    [ "ExtIO::analogRead", "group___a_h___ext_i_o.html#gaa2ec79a352fdba93731326dbc4004de6", null ],
+    [ "ExtIO::analogRead", "group___a_h___ext_i_o.html#ga7203d161f7e9676d191ed320d9dad00f", null ],
+    [ "ExtIO::analogReadBuffered", "group___a_h___ext_i_o.html#gac29a28d9016f67b68d6b8c6428771032", null ],
+    [ "ExtIO::analogWrite", "group___a_h___ext_i_o.html#gac5ffa72b5859d019f998acece7fca098", null ],
+    [ "ExtIO::analogWrite", "group___a_h___ext_i_o.html#ga8bde03b3f236f30300c54bc3aae52e20", null ],
+    [ "ExtIO::analogWrite", "group___a_h___ext_i_o.html#ga0314f70be27bb6d00dd1dd48c343ac49", null ],
+    [ "ExtIO::analogWrite", "group___a_h___ext_i_o.html#gad353d9a29f49cc34e8532b979bf6fed7", null ],
+    [ "ExtIO::analogWriteBuffered", "group___a_h___ext_i_o.html#gab2fb6de7a255d27d675f691507ac8375", null ],
+    [ "ExtIO::analogWriteBuffered", "group___a_h___ext_i_o.html#ga404a2d94baf88113370b5a6a2fb346fc", null ],
+    [ "ExtIO::digitalRead", "group___a_h___ext_i_o.html#ga700356e637fa783782a8fc0d03793457", null ],
+    [ "ExtIO::digitalRead", "group___a_h___ext_i_o.html#ga1e353e845d014de7d28bab2311aa235a", null ],
+    [ "ExtIO::digitalReadBuffered", "group___a_h___ext_i_o.html#gab4e9dd8a34c5e2250b8b5fab1e7baac1", null ],
+    [ "ExtIO::digitalWrite", "group___a_h___ext_i_o.html#gaa271db69cf0fddb125d511e73559cddd", null ],
+    [ "ExtIO::digitalWrite", "group___a_h___ext_i_o.html#ga587fd4c3f657dcd4c38f8be610436c5a", null ],
+    [ "ExtIO::digitalWriteBuffered", "group___a_h___ext_i_o.html#gafd1699f981889ccc8792bb38c90628ff", null ],
+    [ "ExtIO::getIOElementOfPin", "group___a_h___ext_i_o.html#ga5097ad8162c2555361df2cc09fbd01be", null ],
+    [ "ExtIO::getIOElementOfPinOrNull", "group___a_h___ext_i_o.html#ga8751ad785bb880fb96d0ee472696369e", null ],
+    [ "ExtIO::isNativePin", "group___a_h___ext_i_o.html#ga89df59d03706d2a609c72d690a76b65f", null ],
+    [ "ExtIO::pinMode", "group___a_h___ext_i_o.html#ga81fb8c077cc029a7d61c680133844dbe", null ],
+    [ "ExtIO::pinMode", "group___a_h___ext_i_o.html#gaf013b1670d7a5da8d62a3822961a18b2", null ],
+    [ "ExtIO::pinModeBuffered", "group___a_h___ext_i_o.html#gaf49297b485455ddd35a0188f005f89d0", null ],
+    [ "ExtIO::shiftOut", "group___a_h___ext_i_o.html#ga6876723e642c4f199486d39ce8aa8279", null ],
+    [ "ExtIO::shiftOut", "group___a_h___ext_i_o.html#ga8adce3ef70f601804a42be11d071dbfb", null ]
+];
